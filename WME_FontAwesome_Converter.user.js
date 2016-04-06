@@ -1,4 +1,4 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name        WME FontAwesome Converter
 // @namespace   http://www.tomputtemans.com/
 // @author      Tom 'Glodenox' Puttemans
