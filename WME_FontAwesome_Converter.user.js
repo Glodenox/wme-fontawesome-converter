@@ -3,11 +3,8 @@
 // @namespace   http://www.tomputtemans.com/
 // @author      Tom 'Glodenox' Puttemans
 // @description Converts the old FontAwesome classes to the new FontAwesome classes
-// @include     https://www.waze.com/*/editor/*
-// @include     https://www.waze.com/editor/*
-// @include     https://editor-beta.waze.com/*
-// @exclude     https://www.waze.com/user/*editor/*
-// @version     0.1
+// @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
+// @version     0.1.1
 // @grant       none
 // ==/UserScript==
 
